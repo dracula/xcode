@@ -2,7 +2,7 @@
 
 > A dark theme for [Xcode](http://developer.apple.com/xcode).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/xcode.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
