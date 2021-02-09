@@ -14,5 +14,5 @@ $ mkdir ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 
 #### Activating theme
 
-1. _Xcode > Preferences > Fonts & Colors_
+1. _Xcode > Preferences > Themes_
 2. Select the Dracula theme
