@@ -6,9 +6,9 @@
 
 2. Create the custom themes folder:
 
-	```
-$ mkdir ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
-	```
+```
+$ mkdir ~/Library/Developer/Xcode/UserData/FontAndColorThemes
+```
 
 3. Move `Dracula.xccolortheme` file to this custom themes folder.
 
