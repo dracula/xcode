@@ -1,6 +1,6 @@
 ### [Xcode](https://developer.apple.com/xcode/)
 
-#### Install
+#### Install manually
 
 1. Download using the [GitHub `.zip` download](https://github.com/dracula/xcode/archive/master.zip) option and unzip them.
 
@@ -12,11 +12,11 @@ mkdir ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 
 3. Move `Dracula.xccolortheme` file to this custom themes folder.
 
-#### [Homebrew](https://brew.sh)
+#### Install using [Homebrew](https://brew.sh)
 
 Easily install from [dracula/homebrew-install](https://github.com/dracula/homebrew-install/blob/master/Casks/dracula-xcode.rb):
 
-``` sh
+```bash
 brew tap dracula/install
 brew install --cask dracula-xcode
 ```
